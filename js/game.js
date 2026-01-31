@@ -1,8 +1,9 @@
 
 let canvas;
 let ctx;
-let charakter = new movableObject();
 
+
+let world = new World();
 
 function init () {
     canvas = document.getElementById("canvas");
