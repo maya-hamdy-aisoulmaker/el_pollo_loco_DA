@@ -1,7 +1,7 @@
-class world {
+class World {
 
 
-charakter = new Charakter();
+character = new Character();
 
 enemies = [
     new Chicken(),

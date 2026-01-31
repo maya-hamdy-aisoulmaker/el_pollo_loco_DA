@@ -1,3 +1,6 @@
-class chicken extends movableObject {
+class Chicken extends MovableObject {
+    constructor() {
+        super();
+    }
     
 }
