@@ -1,7 +1,7 @@
 
 let canvas;
 let ctx;
-let charakter = new Image();
+let charakter = new movableObject();
 
 
 function init () {
